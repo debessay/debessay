@@ -1,8 +1,8 @@
 # Aklilu Debessay
 
-> ሰላም፣ ነጻ የግዕዝ እና የአማርኛ ቅርጸ-ቁምፊዎችን አዘጋጃለሁ።
+> ሰላም፣ ነጻ የግዕዝ, የአማርኛ, ላቲን ገጸ-ፊደሎችንን አዘጋጃለሁ።
 
-Hello. I design free Ge'ez and Amharic fonts and release them under the SIL Open Font License 1.1. I also work as a building maintenance technician.
+Hello. I design free Ge'ez, Amharic and latin fonts and release them under the SIL Open Font License 1.1. I also work as a building maintenance technician.
 
 ## Fonts
 
